@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://Sam3Logix.github.io/pages-test"
+  "homepage": "https://Sam3Logix.github.io/pages-test",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
@@ -40,6 +40,7 @@
     ]
   },
   "devDependencies": {
+    "ajv": "^7.2.4",
     "gh-pages": "^6.3.0"
   }
 }
